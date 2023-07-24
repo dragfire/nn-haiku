@@ -5,7 +5,6 @@ This neural net uses transformer to generate Haikus character by character. Does
 Only trained this for a few minutes on my Macbook Air (m2). This is for my own learning purposes, credit goes to https://www.youtube.com/watch?v=kCc8FmEb1nY (Andrej Karpathy)
 
 `haiku.word.transformer.ipynb` handles word level haiku generation.
-
 # Samples:
 ## After training just for one epoch, it generates totally incomprehensible gibberish:
 ```
